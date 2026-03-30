@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🎖️ Certification <br><br>• Big Data & Analytics - FIAP<br>• Python Development - FIAP<br>• Introdução a Cibersegurança - Cisco<br>• Engenharia de Prompts com IA do Zero ao Avançado 2025 - Udemy<br>• Excel - Básico ao avançado<br>• Power BI - Básico </h4>
+<h4 align="left">🎖️ Certification <br><br>• Big Data & Analytics - FIAP<br>• Python Development - FIAP<br>• Introdução à Cibersegurança - Cisco<br>• Engenharia de Prompts com IA do Zero ao Avançado 2025 - Udemy<br>• Excel - Básico ao avançado<br>• Power BI - Básico </h4>
 
 ###
 
