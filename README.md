@@ -14,7 +14,9 @@
 
 ###
 
-<h4 align="left">Hey there 👋<br><br>Sou aluno na Estácio,  estou cursando Ciência da Computação,  onde busco me profissionalizar nas minhas áreas de interesse, que incluem Machine Learning (ML) e Inteligência Artificial (I.A).<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução nos estudos.</h4>
+<h4 align="left">Hey there 👋<br><br>Estudante de Ciência da Computação apaixonado por tecnologia, desenvolvimento web e soluções digitais. 
+Atualmente atuo como Estagiário de Suporte Técnico e sou cofundador da System For Code, onde desenvolvemos sites, sistemas, automações e soluções com Inteligência Artificial para empresas. 
+Meu objetivo é utilizar a tecnologia para transformar ideias em resultados reais.<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução nos estudos.</h4>
 
 ###
 
